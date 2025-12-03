@@ -93,8 +93,3 @@ plataformas/
 - **Header fijo en móvil**: Navegación siempre accesible
 - **Burger menu**: Para navegación en dispositivos móviles
 - **Responsive design**: Adaptado a todos los tamaños de pantalla
-
-## 📄 Licencia
-
-Este proyecto es privado.
-
