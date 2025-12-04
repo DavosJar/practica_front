@@ -52,7 +52,7 @@ El prototipo de SystemWatch cubre el flujo completo de un sistema de monitoreo d
 - Gráficos de métricas de rendimiento (tiempo de respuesta y uso de CPU)
 - Botón de refresh y navegación breadcrumb
 
-**Captura de pantalla:** ![Detalle de Sistema](img/system_info_1.png) ![Detalle de Sistema Móvil](img/system_info_1_mobile.png)
+**Captura de pantalla:** ![Detalle de Sistema 1](img/system_info_1.png) ![Detalle de Sistema 1 Móvil](img/system_info_1_mobile.png) ![Detalle de Sistema 2](img/system_info_2.png) ![Detalle de Sistema 2 Móvil](img/system_info_2_mobile.png)
 
 ### 5. Agregar Sistema
 **Propósito:** Formulario para configurar y agregar un nuevo sistema al monitoreo.
@@ -96,4 +96,4 @@ El prototipo de SystemWatch cubre el flujo completo de un sistema de monitoreo d
 - Área principal con placeholder para reportes generados
 - Botón para generar reporte
 
-**Captura de pantalla:** ![Reportes Avanzados](img/system_info_2.png) ![Reportes Avanzados Móvil](img/system_info_2_mobile.png)
+**Captura de pantalla:** No disponible
