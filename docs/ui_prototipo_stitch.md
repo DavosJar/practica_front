@@ -95,4 +95,5 @@ El prototipo de SystemWatch cubre el flujo completo de un sistema de monitoreo d
 - Lista de métricas disponibles con checkboxes
 - Área principal con placeholder para reportes generados
 - Botón para generar reporte
-![Reportes Avanzados](image.png)
+
+**Captura de pantalla:** ![Reportes Avanzados](img/reportes.png)
