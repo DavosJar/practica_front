@@ -84,8 +84,15 @@ plataformas/
 ├── index.html        # HTML base
 ├── vite.config.ts    # Configuración de Vite
 ├── tsconfig.json     # Configuración de TypeScript
-└── package.json      # Dependencias y scripts
+├── package.json      # Dependencias y scripts
+└── docs/             # Documentación del proyecto
+    ├── ui_prototipo_stitch.md  # Documentación del prototipo UI
+    └── img/          # Imágenes y capturas de pantalla
 ```
+
+## 📚 Documentación
+
+Para más información sobre el prototipo de UI y las pantallas del sistema, consulta la [documentación del prototipo](docs/ui_prototipo_stitch.md).
 
 ## 🎨 Características de UI
 
